@@ -1,8 +1,8 @@
 [
     {
-        "name": "Deluxe Package",
+        "name": "Deluxe Service Package",
         "price": 100,
-        "description": "This is the deluxe package",
+        "description": "This is the deluxe service package",
         "view": 100,
         "category": "Honeymoon",
         "status": "available",
